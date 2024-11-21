@@ -1,9 +1,9 @@
 module.exports = {
     connectionLimit: 100,
     multipleStatements : true,
-    host    : '110.0.100.70',
+    host    : 'localhost',
     user    : 'root',
     port    : 3306,
-    password: 'P@ssw0rdKu!23',
+    password: '',
     database: 'alfabeta_database'
 }
